@@ -9,7 +9,7 @@ var baseURL;
 //   baseURL = process.env.REACT_APP_API_BASE_URL;
 // } else
 // baseURL = "https://backend-a2z-project.herokuapp.com/";
-baseURL = "https://amazon-backend.anugrahmasihapp.repl.co/";
+baseURL = "https://a-z-backend.twacklord.repl.co/";
 
 // baseURL = 'http://127.0.0.1:8000/';
 
